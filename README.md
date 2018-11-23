@@ -3,7 +3,7 @@ The labs in this course are assigned weekly and completion of it proves the stud
 
 
 # Creation Scripts
-The labs are completed with a set of tables provided by the professor. The tables used were created with the **MainDBase_CreationScript** sql file the creationScripts folder.
+The labs are completed with a set of tables provided by the professor. The tables used were created with the **MainDBase_CreationScript** sql file which is found under the creationScripts folder.
 
 
 # Assignments
