@@ -1,0 +1,43 @@
+GROUP C
+
+-- Name: TRACY NGUYEN, 
+-- ID: 127270171
+-- Name: Mehedi Haque,
+-- ID: 154908172
+-- Name: Nirav Patel,
+-- ID: 140061169
+-- Name: Salim Arefi
+-- ID: 069975134
+
+
+SOLD PROPERTY
+Every sold property is put under one client buyer name.
+Every property sale record only pertains to one property.
+
+CLIENTS
+Clients may buy more than one property.
+Clients may sell more than one property.
+
+AGENCY
+Agencies can sell one or more properties.
+
+PROPERTY
+Every property is sold under one agency.
+Every property being sold is under one client seller name.
+Every property has a unique location (address).
+Every property can have several ad postings or none.
+Every property is in only one area.
+
+ADVERTISEMENTS
+Every ad is for one property.
+Every ad is under one outlet.
+
+OUTLET
+Outlets can have one or more ad postings.
+
+AREA
+An area can have several properties or none.
+An area can have several schools or none.
+
+SCHOOL
+A school is in only one area.
